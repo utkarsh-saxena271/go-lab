@@ -2,7 +2,15 @@
 
 ### Data Types
 - int - integers
+    
+    <p align="center" size>
+    <img src="./variables/images/int-datatypes.png" alt="App Logo" width="500"/>
+    </p>    
+
 - float32 - floating point numbers
+    <p align="center" size>
+    <img src="./variables/images/float-datatypes.png" alt="App Logo" width="500"/>
+    </p>
 - string - stream of characters
 - bool - boolean (true and false)
 
